@@ -18,12 +18,11 @@ Link API JSON Mentah Rent Listing (Michael Ballard): http://ballard.tugastst.my.
 ### Akses Lokal
 1. Lakukan "git clone" terhadap repositori ini di terminal anda. <br>
 2. Lakukan command cd untuk pindah directory ke folder baru yang telah tercipta <br>
-3. Lakukan command "npm i" <br>
-4. Lakukan command "node Server.js" <br>
-6. Masuk ke folder microservicetst <br>
-7. Lakukan command "npm i" <br>
-8. Lakukan command "node Server.js" <br>
-9. Buka localhost:8880 dan localhost:8881 di perangkat anda. <br>
+3. Masuk ke folder  “microservicetst” <br>
+4. Lakukan command "npm i" <br>
+5. Lakukan command "node Server.js" <br>
+6. Buka localhost:8880 di perangkat anda. <br>
+
 
 ## Teknologi yang digunakan
 ### Backend
