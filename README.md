@@ -20,7 +20,7 @@ Link API JSON Mentah Rent Listing (Michael Ballard): http://ballard.tugastst.my.
 2. Lakukan command cd untuk pindah directory ke folder baru yang telah tercipta <br>
 3. Lakukan command "npm i" <br>
 4. Lakukan command "node Server.js" <br>
-6. Masuk ke folder RafiJob <br>
+6. Masuk ke folder microservicetst <br>
 7. Lakukan command "npm i" <br>
 8. Lakukan command "node Server.js" <br>
 9. Buka localhost:8880 dan localhost:8881 di perangkat anda. <br>
